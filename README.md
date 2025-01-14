@@ -1,6 +1,6 @@
 # Coral Dev Board with Pose Estimation
 
-Pose estimation seems to work decently well with MoveNet Thunder. 
+Pose estimation seems to (work decently well)[https://syllepsis.live/2025/01/14/using-the-coral-dev-board-in-2025/] with MoveNet Thunder. 
 Has sensitivity to lighting and background, if you can see the full person, and see them clearly, estimation appears pretty reliable. 
 
 Stock (Mendel install)[https://coral.ai/docs/dev-board/get-started/#flash-the-board] with stock python
